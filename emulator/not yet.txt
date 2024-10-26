@@ -1,2 +1,4 @@
 In two weeks, MathLesson5's biggest update will release.
 This is just a taste of what's to come.
+
+[UPDATE, 10/26/2024] ML5's development has been paused, and the release of v1.2.0 has been delayed indefinitely.
