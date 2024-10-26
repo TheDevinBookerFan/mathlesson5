@@ -1,0 +1,6 @@
+Exthang3r is Chrome's deadliest exploit. Here's how to use it.
+
+1. Go to copy-me.txt and paste the text into your browser. It should open the Exthang3r page.
+2. Select Lightspeed Filter Agent, and click [Hang Extension!].
+3. After about a minute, a button with the text [Kill Extension!] will appear. Click it.
+4. After this, the exploit should be active. Keep the tab open, and you will be able to visit any website.
